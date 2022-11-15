@@ -15,7 +15,7 @@ export default siteConfig({
   author: 'SuZY',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'PPESA Humanities Association one-year anniversary Site',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
