@@ -2,8 +2,8 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  // https://www.notion.so/1119-e20d5ac76c814026bbb02f4332d109ac
-  rootNotionPageId: '1119-e20d5ac76c814026bbb02f4332d109ac',
+  // https://suzy1003.notion.site/PPESA-aaf462cf49974366b22391c8158e4943
+  rootNotionPageId: 'PPESA-aaf462cf49974366b22391c8158e4943',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -11,11 +11,11 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'PPESA Humanities Association',
-  domain: 'https://www.notion.so/1119-e20d5ac76c814026bbb02f4332d109ac',
+  domain: 'https://suzy1003.notion.site/PPESA-aaf462cf49974366b22391c8158e4943',
   author: 'SuZY',
 
   // open graph metadata (optional)
-  description: 'PPESA Humanities Association one-year anniversary Site',
+  description: 'PPESA Humanities Association',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
